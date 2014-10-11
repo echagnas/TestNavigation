@@ -2,7 +2,13 @@
 <resources>
 
     <string name="app_name">ActivitiesNavigation</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <!-- MAIN -->
+    <string name="main_title">Main Screen</string>
+    <string name="main_nav_button">Go to screen 1</string>
+
+    <!-- SCREEN 1 -->
+    <string name="screen_1_title">Screen 1</string>
+    <string name="screen_1_nav_button_1">Go to main</string>
 </resources>
